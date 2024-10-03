@@ -1,2 +1,3 @@
 # LITA_Class_Documentation
-This where I documented  my first project while learning Data Analysis with Incubator Hub.
+### Project Title: Data Analysis (Biginner Level)
+### Project Overview: Learning Data Analysis
