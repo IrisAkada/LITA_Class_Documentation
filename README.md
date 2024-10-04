@@ -56,7 +56,7 @@ Data entry fundamentals
 - OR
 - XOR
   
-### creating report in Excel using PIVOT TOOLS
+### Creating report in Excel using Pivot Tools
 - Pivot Tables
 
 ### SQL(STRUCTURED QUERY LANGUAGE)
