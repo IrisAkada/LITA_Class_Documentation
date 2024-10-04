@@ -74,7 +74,7 @@ Data entry fundamentals
    ```
 
    ### POWER BI(BUSINESS INTELLIGENCE)
-   -Installation and introduction to Power BI
+   -Installation and Introduction to Power BI
    
 
 
