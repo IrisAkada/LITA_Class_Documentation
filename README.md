@@ -46,9 +46,9 @@ Data entry fundamentals
 - XLOOKUP
 - CHOOSE
 - INDIRECT
-- Cell Referencing and 
+- Cell Referencing  
 
-- Execl Functions 4
+- Exell Functions 4
 - Conditional Functions
 - IFS
 - AND
