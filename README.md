@@ -63,8 +63,9 @@ Data entry fundamentals
 1. SQL commands
 2. Data type
 3. Database keys
-4. SQL Clauses
-5. Syntax
+4. SQL Operators
+5. SQL Clauses
+6. Syntax
    
    ### writing codes e.g
    
