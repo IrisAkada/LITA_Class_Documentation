@@ -30,7 +30,7 @@ Data entry fundamentals
 - Count, CountIf
 - Average,AverageIf
 
-### Exell Functions 2
+### Exel Functions 2
 - Text Extraction( LEFT,MID,RIGHT,SEARCH,FIND)
 - Composition(CCombining more than one functions to extract text)
 - The use of Flashfil(Control+ E)
@@ -48,7 +48,7 @@ Data entry fundamentals
 - INDIRECT
 - Cell Referencing  
 
-- Exell Functions 4
+- Excel Functions 4
 - Conditional Functions
 - IFS
 - AND
